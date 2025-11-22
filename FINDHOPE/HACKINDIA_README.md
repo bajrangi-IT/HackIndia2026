@@ -7,7 +7,7 @@
 ## 🏆 Hackathon Information
 
 - **Event**: HackIndia 2026
-- **Team Name**: trace-finder-link
+- **Team Name**: FINDHOPE
 - **Project Title**: FINDHOPE - Missing People Finder
 - **Category**: Social Impact / AI & ML
 
@@ -109,7 +109,7 @@ FINDHOPE addresses these challenges through:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/HackIndiaXYZ/HackIndia2026.git
-   cd HackIndia2026/trace-finder-link
+   cd HackIndia2026/FINDHOPE
    ```
 
 2. **Install dependencies**
